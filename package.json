@@ -1,0 +1,20 @@
+{
+	"name": "iodide",
+	"description": "Interconnected Objective Data & Integrated Development Environment",
+	"version": "0.0.1",
+	"main": "iodide.js",
+	"author":"Joe K. Kim (@xGovern)",
+	"license":"Proprietary",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/xgovern/iodide"
+	},
+	"keywords":["iodide","aws","xgovern","xgov"],
+	"bugs": {
+		"url": "https://github.com/xgovern/iodide/issues"
+	},
+	"homepage": "https://iodide.com",
+	"dependencies": {
+		
+	}
+}
